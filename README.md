@@ -5,6 +5,8 @@
 
 ### XSS
 ### IDOR & Broken Access Control
+### AI vulnerabilities
+
 
 #### -> Hack with ethic.
 ###### -> Not written by an expert but by a hobbyist practitioner. 
